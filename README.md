@@ -1,3 +1,3 @@
 # Movie-News-Web
 
-This is movie news website.
+This a is movie news website.
